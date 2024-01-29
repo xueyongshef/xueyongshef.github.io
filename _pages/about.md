@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Electrical Engineering and Electronics, Univeristy of Liverpool</a>. 9 Brownlow Hill, Liverpool L69 3GJ, UK
+subtitle: <a href='#'>Department of Electrical Engineering and Electronics, Univeristy of Liverpool</a>. 
 
 profile:
   align: right
