@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xue Yong",
+    "label": "Computational Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "xue.yong@liverpool.ac.uk",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://xueyongshef.github.io",
+    "summary": "Dr Xue Yong is currently a lecturer in the Department of Electrical Engineering and Electronics at the University of Liverpool. She obtained her PhD degree in the Department of Physics, at the University of Saskatchewan in 2016 and her mater of science, and Bachelor of Science in Chemistry at Northeast Normal University in 2012 and 2009. In 2019, She received the postdoctoral fellowship with the (NSERC) Natural Sciences and Engineering Research Council of Canada. She was awarded as Leverhulme Early Career Fellow in 2022. Her research group has been focused on developing novel functional materials for energy applications including energy conversion, energy storage",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "9 Brownlow Hill",
+      "postalCode": "L69 3GJ",
+      "city": "Liverpool",
+      "countryCode": "UK",
+      "region": "Liverpool"
     },
     "profiles": [
       {
