@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: XY_computational lab # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Xue
 #middle_name: R.
 last_name: Yong
 email: xue.yong@liverpool.ac.uk
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: Dr Xue Yong is currently a lecturer in the Department of Electrical Engineering and Electronics at the University of Liverpool. She obtained her PhD degree in the Department of Physics, at the University of Saskatchewan in 2016 and her mater of science, and Bachelor of Science in Chemistry at Northeast Normal Univeristy in 2012 and 2009. In 2019, She recieved the postdoctoral fellowship with the (NSERC) Natural Sciences and Engineering Research Council of Canada. She was awared as Leverhulme Early Career Fellow in 2022. Her research group has been focused on developing novel funcational materials for energy applciations inculding ennergy converion, energy storage.> # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
