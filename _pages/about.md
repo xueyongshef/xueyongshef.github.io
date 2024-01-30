@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Electrical Engineering and Electronics, University of Liverpool</a>. Liverpool. xue.yong@liverpool.ac.uk
+subtitle: <a href='#'>Department of Electrical Engineering and Electronics, University of Liverpool</a>. Liverpool. 
 
 profile:
   align: right
