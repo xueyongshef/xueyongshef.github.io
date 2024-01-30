@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Electrical Engineering and Electronics, University of Liverpool</a>. Liverpool. 
+subtitle: <a href='#'>Department of Electrical Engineering and Electronics, University of Liverpool</a>.  Address. Contacts. Moto. Etc.
 
 profile:
   align: right
