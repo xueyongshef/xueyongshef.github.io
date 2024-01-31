@@ -35,24 +35,24 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
+      "organization": "Scientist in school Singapore",
+      "position": "Mentor",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Lead a group of girls doing some computational work for solar cell materials",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Saskatchewan",
+      "location": "Saskatoon, Canada",
+      "url": "http://www.usask.ca",
+      "area": "Condense matter physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2012-09-01",
+      "endDate": "2016-12-9",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
