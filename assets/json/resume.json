@@ -55,6 +55,17 @@
       "endDate": "2016-12-9",
       "score": "10",
       "courses": ["Theory of Relativity"]
+    },
+        {
+      "institution": "Northeast Normal University",
+      "location": "Changchun, China",
+      "url": "https://en.nenu.edu.cn",
+      "area": "Physcial Chemistry",
+      "studyType": "MSc",
+      "startDate": "2009-09-01",
+      "endDate": "2012-06-31",
+      "score": "10",
+      "courses": ["Therotical Desgin of Dornor Materials for Organic solar cell "]
     }
   ],
   "awards": [
