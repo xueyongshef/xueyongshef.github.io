@@ -28,7 +28,7 @@
       "position": "Lecturer",
       "url": "https://www.liverpool.ac.uk/electrical-engineering-and-electronics/",
       "startDate": "2024-02-01",
-      "endDate": "presemt",
+      "endDate": "present",
       "summary": "I work on my project about computation characterization the strucutre and growth of carbon dots.",
       "highlights": ["carbon dots"]
     },
@@ -68,11 +68,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Leverhulme Trust Early Career Fellow",
+      "date": "2023-01-01",
+      "awarder": "Leverhulme Trust ",
+      #"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+     # "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
