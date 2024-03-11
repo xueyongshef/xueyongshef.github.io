@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "Department of Chemistry, University of Liverpool",
+      "position": "Lecturer",
+      "url": "https://www.liverpool.ac.uk/electrical-engineering-and-electronics/",
+      "startDate": "2024-02-01",
+      "endDate": "presemt",
+      "summary": "I work on my project about computation characterization the strucutre and growth of carbon dots.",
+      "highlights": ["carbon dots"]
+    }
+    {
       "name": "Department of Chemistry, University of Sheffield",
       "position": "Leverhulme Trust Early Career Fellow",
       "url": "https://www.sheffield.ac.uk/chemistry",
