@@ -8,7 +8,9 @@ middle_name:
 last_name: Yong
 email: xue.yong@liverpool.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- Dr Xue Yong is currently a lecturer in the Department of Electrical Engineering and Electronics at the University of Liverpool. She obtained her PhD degree in the Department of Physics, at the University of Saskatchewan in 2016 and her mater of science, and Bachelor of Science in Chemistry at Northeast Normal University in 2012 and 2009. In 2019, She received the postdoctoral fellowship with the (NSERC) Natural Sciences and Engineering Research Council of Canada. She was awarded as Leverhulme Early Career Fellow in 2022. Her research group has been focused on developing novel functional materials for energy applications including energy conversion, energy storage.
+   I am a Professor at School of Aerospace Engineering, Beijing Institute of Technology.
+  Previously, I was a postdoctoral researcher at Department of Chemistry, University College London.
+  I started as an experimental physicist in my undergraduate study in Cambridge, and gradually shifted into computational materials science/chemistry over the years.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
