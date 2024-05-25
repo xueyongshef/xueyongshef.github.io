@@ -1,64 +1,64 @@
 {
   "basics": {
-    "name": "Bonan Zhu",
+    "name": "Xue Yong",
     "label": "Computation Material Scientist",
     "image": "",
-    "email": "bzhu@bit.edu.cn",
+    "email": "xue.yong@liverpool.ac.uk",
     "phone": "",
-    "url": "https://zhubonan.github.io",
-    "summary": "A material scientist from a Physics and background of Physics and a bit of Chemistry, interested in design of discovery of novel materials via computational approaches.",
+    "url": "https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/xue-yong/",
+    "summary": "A material scientist from a Chemsitry and Physics background, interested in design of discovery of novel materials via computational approaches.",
     "location": {
-      "address": "5 Zhongguangcunnan Stress, Haidian",
-      "postalCode": "100081",
-      "city": "Beijing",
-      "countryCode": "China",
-      "region": "Bejing"
+      "address": "9 Brownlow Hill",
+      "postalCode": " L69 3GJ",
+      "city": "Liverpool",
+      "countryCode": "UK",
+      "region": "Liverpool"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "1stbt",
-        "url": "https://twitter.com/1stbz"
+        "username": "xue22919810",
+        "url": "https://twitter.com/xue22919810"
       }
     ]
   },
   "work": [
     {
-      "name": "School of Aerospace Engineering, Beijing Institute of Technology",
-      "position": "Professor",
-      "startDate": "2023-08-31",
-      "url": "https://sae.bit.edu.cn",
+      "name": "Department of Electrical Engineering and Electronics,",
+      "position": "Lecturer",
+      "startDate": "2024-02-01",
+      "url": "https://www.liverpool.ac.uk",
       "endDate": "",
       "summary": "",
       "highlights": ["Relativity"]
     },
     {
-      "name": "Department of Chemistry, University College London",
-      "position": "Research Fellow",
-      "url": "https://www.ucl.ac.uk/",
+      "name": "Department of Chemistry, University of Sheffield",
+      "position": "Leverhulme Early Career Fellow",
+      "url": "https://www.shef.ac.uk/",
       "startDate": "2020-04-06",
       "endDate": "2023-07-31",
-      "summary": "Working on computational discovery of next-generation li-ion cathode materials"
+      "summary": ""
     }
   ],
   "education": [
     {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, United Kingdom",
-      "url": "https://www.cam.ac.uk/",
-      "area": "Materials Science",
+      "institution": "University of saskatchewan",
+      "location": "Saskatoon, Canada",
+      "url": "https://www.usask.ca",
+      "area": "Condense mater physics",
       "studyType": "PhD",
-      "startDate": "2016-10-01",
-      "endDate": "2020-04-03"
+      "startDate": "2012-09-01",
+      "endDate": "2017-06-30"
     },
     {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, United Kingdom",
-      "url": "https://www.cam.ac.uk/",
-      "area": "Natural Sciences (Physics)",
+      "institution": "Northeast Normal University",
+      "location": "Changchun, China",
+      "url": "https://en.nenu.edu.cn",
+      "area": "Chemistry",
       "studyType": "Undergraduate",
-      "startDate": "2012-10-01",
-      "endDate": "2016-06-23"
+      "startDate": "2005-09-01",
+      "endDate": "2009-06-23"
     }
   ],
   "awards": [],
@@ -79,7 +79,7 @@
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "Fortran", "Julia", "MATLAB"]
+      "keywords": ["Python", "Fortran"]
     }
   ],
   "languages": [
