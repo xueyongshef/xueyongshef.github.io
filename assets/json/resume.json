@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Department of Chemistry, University of Liverpool",
+      "name": "Department of Electrical Engineering and Electronics, University of Liverpool",
       "position": "Lecturer",
       "url": "https://www.liverpool.ac.uk/electrical-engineering-and-electronics/",
       "startDate": "2024-02-01",
       "endDate": "present",
-      "summary": "I work on my project about computation characterization the strucutre and growth of carbon dots.",
+      //"summary": "I work on my project about computation characterization the strucutre and growth of carbon dots.",
       "highlights": ["carbon dots"]
     },
     {
@@ -38,7 +38,7 @@
       "url": "https://www.sheffield.ac.uk/chemistry",
       "startDate": "2023-01-01",
       "endDate": "2024-01-31",
-      "summary": "I work on my project about computation characterization the strucutre and growth of carbon dots.",
+      //"summary": "I work on my project about computation characterization the strucutre and growth of carbon dots.",
       "highlights": ["carbon dots"]
     }
   ],
@@ -49,7 +49,7 @@
       "url": "https://example.com",
       "startDate": "2017-01-01",
       "endDate": "2018-01-01",
-      "summary": "Lead a group of girls doing some computational work for solar cell materials",
+      //"summary": "Lead a group of girls doing some computational work for solar cell materials",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
